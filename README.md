@@ -123,3 +123,6 @@ To allow Cloud Build to deploy to Cloud Run, you need to grant the Cloud Build s
 - go to cloud run, you should see a new service is deployed. Its name is `lab-cd`.
 - click on the service, copy the url and open it in browser.
 - with the url, put `/concerts` at the end of the url, you should see the list of concerts.
+
+
+## Edit by boat 4:48 pm 5/13/2024
